@@ -23,3 +23,6 @@ THE GUNS:
 - ANIMATIONS: a class that consists of multiple sprites and has methods to be animated.
 
 - MULTIPLAYER: upon button click a player is prompted to either become a host or a client, in case of the latter to type in the host's IP. You can duel on local networks.
+
+
+Might not be all the features listed, but those are the main I can remember after a few years of not coding them) That goes for the descendants as well. Enjoy!
